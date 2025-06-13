@@ -12,15 +12,15 @@ A simple and functional Job and Internship Portal built with React and pure CSS.
 - ✅ View detailed job descriptions
 - ✅ Save jobs/internships for later
 - ✅ Apply with one click
-- ✅ Post new job listings (for employers)
-- ✅ Dashboard showing user-specific data (applied & saved applications)
+- ✅ Post new job listings 
+- ✅ Dashboard showing user-specific data (saved applications)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, CSS (no CSS Modules)
-- **Backend:** Node.js, Express, JSON files (no MySQL)
+- **Frontend:** React, CSS 
+- **Backend:** Node.js, Express, JSON files
 - **Frontend Hosting:** Netlify
 - **Backend Hosting:** Railway
 
@@ -28,8 +28,8 @@ A simple and functional Job and Internship Portal built with React and pure CSS.
 
 ## 🌐 Live Deployment
 
-- **Frontend:** [Netlify](https://www.netlify.com/)
-- **Backend:** [Railway](https://railway.app/) — uses JSON files to store jobs and user data.
+- **Frontend:** [Netlify](https://jobportalcs.netlify.app/)
+- **Backend:** [Railway](https://job-portal-production-6a86.up.railway.app/) — uses JSON files to store jobs and user data.
 
 ## 🤝 Contact & Connect
 
